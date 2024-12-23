@@ -1,6 +1,9 @@
 # Todo Web Application 📝
 
-![App Screenshot](./src/assets/screenshot1.gif)
+![image](https://github.com/user-attachments/assets/bcae2c55-412c-4531-a779-849f8fac601e)
+
+![image](https://github.com/user-attachments/assets/13e142b5-9ae7-4377-b5b9-3dc320a6d55f)
+
 
 A simple, interactive Todo Web Application built with React to help you manage your daily tasks effectively. 
 
